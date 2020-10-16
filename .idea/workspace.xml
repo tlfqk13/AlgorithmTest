@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f3215b4-b8d2-438a-96fe-bb0253a145ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/두 개 뽑아서 더하기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/완주하지 못한 선수.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bubble_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/friend.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maze_al.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/merge_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quick_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sel_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/두 개 뽑아서 더하기" beforeDir="false" afterPath="$PROJECT_DIR$/두 개 뽑아서 더하기" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/두 개 뽑아서 더하기">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/완주하지 못한 선수.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -64,13 +65,14 @@
         <option value="$PROJECT_DIR$/maze_al.py" />
         <option value="$PROJECT_DIR$/bak_2579.py" />
         <option value="$PROJECT_DIR$/sort.py" />
+        <option value="$PROJECT_DIR$/완주하지 못한 선수.py" />
         <option value="$PROJECT_DIR$/두 개 뽑아서 더하기" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="977" />
+    <option name="width" value="854" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -109,7 +111,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.두 개 뽑아서 더하기">
+  <component name="RunManager" selected="Python.완주하지 못한 선수">
+    <configuration name="완주하지 못한 선수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/완주하지 못한 선수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="두 개 뽑아서 더하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,27 +167,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bak_2579.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="find_max_profit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AlgorithmTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_max_profit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.완주하지 못한 선수" />
         <item itemvalue="Python.두 개 뽑아서 더하기" />
         <item itemvalue="Python.bak_2579" />
         <item itemvalue="Python.sort" />
         <item itemvalue="Python.maze_al" />
-        <item itemvalue="Python.find_max_profit" />
       </list>
     </recent_temporary>
   </component>
@@ -257,19 +259,26 @@
       <option name="project" value="LOCAL" />
       <updated>1594258561775</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20201016">
+      <created>1602859618080</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602859618080</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-6" y="0" width="683" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19731544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22720248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3252149" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3252149" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,7 +294,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="20201016" />
+    <option name="LAST_COMMIT_MESSAGE" value="20201016" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/K_number.py">
@@ -392,8 +402,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/두 개 뽑아서 더하기">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/완주하지 못한 선수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
