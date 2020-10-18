@@ -14,8 +14,8 @@ def solution(arr,divisor):
     for i in range(len(arr)):
         if(arr[i]%divisor==0):
             answer.append(arr[i])
-        elif(arr[i]%divisor==arr[i]):
-            answer=[-1]
+    if(len(answer)==0):
+            answer.append(-1)
     return sorted(answer)
 
 print(solution(arr,divisor))
