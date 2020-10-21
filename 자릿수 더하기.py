@@ -4,12 +4,21 @@
 return 하는 solution 함수를 만들어 주세요.
 예를들어 N = 123이면 1 + 2 + 3 = 6을 return 하면 됩니다.
 """
-def solution(n):
-    new = str(n)
-    add = 0
-    for i in range(len(new)):
-        add += int(new[i])
-    return add
+# def solution(n):
+#     new = str(n)
+#     add = 0
+#     for i in range(len(new)):
+#         add += int(new[i])
+#     return add
+#
+# n=987
+# print(solution(n))
 
-n=987
+
+def solution(n):
+    ls = list(str(n))
+    ls.sort(reverse = True)
+    return int("".join(ls))
+
+n=118372
 print(solution(n))
