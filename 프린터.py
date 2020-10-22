@@ -9,18 +9,17 @@ J를 대기목록의 가장 마지막에 넣습니다.
 
 p=[2,1,3,2]
 
-loc=[i for i in range(len(p))]
-final_loc=[]
-print(max(p))
+def solution(priorities,location):
+    answer=0
+    loc=[i for i in range(len(priorities))]
+    final_loc=[]
 
-
-while len(p)!=0:
-    if p[0]==max(p):
-        final_loc.append(loc.pop(0))
-        print(final_loc)
-        p.pop(0)
-
-    else:
-        p.append(p.pop(0))
-        loc.append(loc.pop(0))
-
+    while priorities:
+        if priorities[0]==max(priorities):
+           final_loc.append(loc.pop(0))
+           priorities.pop(0)
+        else:
+            priorities.append(priorities.pop(0))
+            loc.append(loc.pop(0))
+    return final_loc.index(location)+1
+print(solution(p,1))
