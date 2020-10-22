@@ -2,10 +2,15 @@
 solution을 완성해주세요."""
 
 
-def solution(n):
-    answer=[]
-    for i in range(1,n+1):
-        if(n%i==0):
-            answer.append(i)
-    return sum(answer)
-print(solution(5))
+# def solution(n):
+#     answer=[]
+#     for i in range(1,n+1):
+#         if(n%i==0):
+#             answer.append(i)
+#     return sum(answer)
+# print(solution(5))
+
+n=12
+
+print(str(n))
+print(type(n))
