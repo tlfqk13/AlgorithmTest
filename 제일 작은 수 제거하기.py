@@ -6,6 +6,10 @@ solution을 완성해주세요. 단, 리턴하려는 배열이 빈 배열인 경
 
 arr=[4]
 
+def solution(n):
+    ls = list(str(n))
+    ls.sort(reverse = True)
+    return int("".join(ls))
 
 def solution(n):
     answer=n
