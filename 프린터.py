@@ -22,4 +22,7 @@ def solution(priorities,location):
             priorities.append(priorities.pop(0))
             loc.append(loc.pop(0))
     return final_loc.index(location)+1
+
+
+
 print(solution(p,1))
