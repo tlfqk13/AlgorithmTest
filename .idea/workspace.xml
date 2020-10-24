@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f3215b4-b8d2-438a-96fe-bb0253a145ba" name="Default Changelist" comment="20201016">
-      <change afterPath="$PROJECT_DIR$/백준/2839번 설탕 배달.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/동전 0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/인하은행.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/거스름돈.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LV.2/124 나라의 숫자.py" beforeDir="false" afterPath="$PROJECT_DIR$/LV.2/124 나라의 숫자.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/2839번 설탕 배달.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/2839번 설탕 배달.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/동전 0.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/동전 0.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,26 +16,39 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/백준/2839번 설탕 배달.py">
+        <entry file="file://$PROJECT_DIR$/백준/동전 0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="-11">
+              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/백준/동전 0.py">
+        <entry file="file://$PROJECT_DIR$/백준/ATM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="209">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/백준/2839번 설탕 배달.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/백준/인하은행.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/거스름돈.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -60,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test2.py" />
         <option value="$PROJECT_DIR$/merge_sort.py" />
         <option value="$PROJECT_DIR$/test1.py" />
         <option value="$PROJECT_DIR$/quick_sort.py" />
@@ -107,15 +118,17 @@
         <option value="$PROJECT_DIR$/백준/2798 블랙잭.py" />
         <option value="$PROJECT_DIR$/LV.2/위장.py" />
         <option value="$PROJECT_DIR$/LV.2/124 나라의 숫자.py" />
-        <option value="$PROJECT_DIR$/백준/2839번 설탕 배달.py" />
-        <option value="$PROJECT_DIR$/백준/동전 0.py" />
         <option value="$PROJECT_DIR$/백준/인하은행.py" />
+        <option value="$PROJECT_DIR$/백준/ATM.py" />
+        <option value="$PROJECT_DIR$/백준/동전 0.py" />
+        <option value="$PROJECT_DIR$/백준/2839번 설탕 배달.py" />
+        <option value="$PROJECT_DIR$/거스름돈.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="608" />
-    <option name="width" value="1318" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="888" />
+    <option name="width" value="1038" />
     <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -131,11 +144,6 @@
             <path>
               <item name="AlgorithmTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmTest" type="462c0819:PsiDirectoryNode" />
-              <item name="백준" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.동전 0">
+  <component name="RunManager" selected="Python.거스름돈">
     <configuration name="가장 큰 수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -286,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="위장" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="거스름돈" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LV.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LV.2/위장.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/거스름돈.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,11 +422,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.거스름돈" />
+        <item itemvalue="Python.2839번 설탕 배달" />
         <item itemvalue="Python.동전 0" />
         <item itemvalue="Python.인하은행" />
-        <item itemvalue="Python.2839번 설탕 배달" />
         <item itemvalue="Python.124 나라의 숫자" />
-        <item itemvalue="Python.위장" />
       </list>
     </recent_temporary>
   </component>
@@ -495,10 +503,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="487" y="0" width="1054" height="831" extended-state="0" />
+    <frame x="711" y="0" width="830" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07563851" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13350126" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -516,25 +524,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11756935" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29320112" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39111748" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.8541077" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295129" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
@@ -542,8 +531,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="20201016" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programmers_2.py" />
-    <entry file="file://$PROJECT_DIR$/bubble_sort.py" />
     <entry file="file://$PROJECT_DIR$/merge_sort.py" />
     <entry file="file://$PROJECT_DIR$/quick_sort.py" />
     <entry file="file://$PROJECT_DIR$/sel_sort.py" />
@@ -628,22 +615,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/백준/인하은행.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준/ATM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/백준/2839번 설탕 배달.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="312">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/백준/동전 0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="-11">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/백준/인하은행.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/거스름돈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
